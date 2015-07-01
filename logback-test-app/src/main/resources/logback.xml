@@ -31,6 +31,10 @@
         <appender-ref ref="BUSINESS"/>
     </logger>
 
+    <logger name="com.geolud.logback" level="debug">
+        <appender-ref ref="TECHNICAL"/>
+    </logger>
+
     <!--<appender-ref ref="FILE" />-->
     <!--<appender-ref ref="STDOUT"/>-->
 <!--</logger>-->
