@@ -1,4 +1,4 @@
-<configuration>
+<configuration scan="true" scanPeriod="60 seconds">
 
     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
         <!-- encoders are assigned the type
