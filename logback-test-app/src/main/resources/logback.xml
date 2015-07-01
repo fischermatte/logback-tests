@@ -10,7 +10,7 @@
 
     <appender name="TECHNICAL" class="ch.qos.logback.core.FileAppender">
         <append>false</append>
-        <file>logs/FILE.log</file>
+        <file>logs/TECHNICAL.log</file>
         <encoder>
             <pattern>%date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
         </encoder>
