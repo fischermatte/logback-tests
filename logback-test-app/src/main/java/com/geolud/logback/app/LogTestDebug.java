@@ -1,4 +1,4 @@
-package com.geolud.logback.test;
+package com.geolud.logback.app;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
